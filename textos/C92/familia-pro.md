@@ -1,54 +1,55 @@
-Tipo: direção (pro)
+Tipo: pro
 Formato escolhido: direção (dor → consequência → primeiro passo)
 
 ## Ganchos descartados
-1. "Você sabia que dá pra mudar isso hoje?" [descartado: é saudação/"você sabia", proibido pela regra 1]
-2. "Esperar o emprego resolver não vai resolver." [descartado: se basta sozinha, não passa no teste da lacuna]
-3. "Você, olhando o boletim do seu filho e sabendo que aquilo não é o que o mundo vai cobrar dele não escolheu ficar assim." [descartado: mais de 9 palavras, ou vaga demais pro público]
-4. "Só existem dois lados, e um deles cansa." [descartado: correto mas frio — não acerta a emoção certa]
-5. "O primeiro passo não custa nada além de começar." [vencedor]
-Emoção-gatilho da vencedora: pertencimento (os que entenderam já estão fazendo).
+1. Você merece uma vida melhor. [descartado]
+2. Ninguém vai fazer isso por você — nem hoje, nem depois. [descartado]
+3. Você olhando o caderno do seu filho e vendo exercícios que já não preparam pra nada. [descartado]
+4. Esperar já é uma escolha, só que ruim. [descartado]
+5. O primeiro passo não pede permissão de ninguém. [vencedor]
+Emoção-gatilho da vencedora: injustiça ("estão decidindo por você").
+Por que venceu: é a única com verbo de ação imediata — as outras descrevem o problema em vez de abrir o passo.
 
 ### FALA
-Você, olhando o boletim do seu filho e sabendo que aquilo não é o que o mundo vai cobrar dele. E a verdade é que esperar não vai mudar isso. Se poucas empresas controlam as máquinas, elas vão ter o poder — e reclamar não muda sua situação. A consequência de continuar só esperando é ficar do lado de quem depende, obedece e aceita. O primeiro passo não é abandonar tudo: é separar, ainda hoje, trinta minutos pra aprender IA de verdade — não pra usar de qualquer jeito, pra usar bem. Filho que aprende a pensar e produzir com IA cresce pro lado de quem decide, não de quem obedece. Começa por aí. Escreve aqui embaixo o que você vai fazer esta semana — e eu quero ver.
+O primeiro passo não pede permissão de ninguém. Você olhando o caderno do seu filho e vendo exercícios que já não preparam pra nada — e esperar não vai mudar essa situação, reclamar também não. Se poucas empresas controlam as máquinas, elas terão o poder; se o governo não conseguir te proteger, ninguém vai fazer isso no seu lugar. A consequência de só esperar é ficar do lado de quem depende, obedece e aceita. O primeiro passo é pequeno: hoje, separe um tempo pra aprender a usar IA de verdade — não pra testar, pra construir alguma coisa sua. Escreve aqui embaixo o que você vai fazer esta semana. Eu quero ler.
 
 ### SOBREPOSIÇÕES DE TELA
-ATENÇÃO (0–2s): "O primeiro passo não custa nada além de começar."
+ATENÇÃO (0–2s): "O primeiro passo não pede permissão de ninguém."
 RETENÇÃO: a lacuna entre quem decide e quem só aceita — só fecha ouvindo até o fim
-PROVA: o caderno cheio de matéria decorada que a IA resolve em segundos, na tela
-ENGAJAMENTO: escreve nos comentários o que você vai fazer esta semana
-CTA (fecho): escreve nos comentários o que você vai fazer esta semana
+PROVA: o caderno cheio de matéria decorada, o filho perguntando o que fazer depois da escola, na tela
+ENGAJAMENTO: escreve aqui embaixo o que você vai fazer esta semana
+CTA (fecho): escreve aqui embaixo o que você vai fazer esta semana
 
 ## IMAGENS
-IMAGEM 1 — "O primeiro passo não custa nada além de " [atenção choque]
-headline: DOIS LADOS | SÓ UM DECIDE
+IMAGEM 1 — "O primeiro passo não pede permissão" [atenção choque]
+headline: O PASSO | NÃO ESPERA
 hook: quem fica esperando não escolhe {o lado}
-Two identical wooden chairs facing opposite directions in an empty room, one lit by warm light from a window, the other in cold shadow, cinematic realism, no text, no hologram
+An open school notebook filled with handwriting next to a closed laptop, warm kitchen table light, photographic realism, no legible text
 
-IMAGEM 2 — "a dor de ver que a escola prepara seu filho pro mundo de ontem" [tensão]
-headline: NINGUÉM VAI | TE SALVAR DISSO
-hook: a espera custa mais do que {o risco}
-A person's hand resting on a closed door handle that does not turn, warm hallway light beyond a frosted glass, tension in stillness, photographic realism, no text, no person's face visible
+IMAGEM 2 — "pais e famílias com visão de futuro — tensão" [tensão]
+headline: O QUE CUSTA | ESPERAR
+hook: {o tempo} não espera ninguém
+A child's backpack hanging by a door beside an adult's briefcase, morning light, quiet parallel, no people
 
-IMAGEM 3 — "o caderno cheio de matéria decorada que a IA resolve em segundos" [prova concreta]
-headline: É ISSO QUE | ACONTECE TODO DIA
-hook: o detalhe pequeno mostra {o padrão} inteiro
-A close-up of an inbox on a laptop screen showing an empty unread state, soft daylight from a window, shallow depth of field, no legible text, photographic realism
+IMAGEM 3 — "pais e famílias com visão de futuro — prova concreta" [prova concreta]
+headline: O QUE PROVA | TODO DIA
+hook: {o padrão} não espera ninguém
+Two hands, an adult's and a child's, both pointing at the same tablet screen, warm family light, no faces visible
 
-IMAGEM 4 — "o outro lado da história" [virada]
-headline: APRENDER MUDA | O LADO DA MESA
-hook: a mesma ferramenta que ameaça também {liberta}
-A single seed cracking open on dark soil with a thin green sprout emerging, macro shot, warm directional light, high detail, no text
+IMAGEM 4 — "pais e famílias com visão de futuro — virada" [virada]
+headline: O QUE VIRA | DE LADO
+hook: {a escolha} não espera ninguém
+An empty chair at a family dinner table set for four, soft evening light, quiet tension, no text
 
-IMAGEM 5 — "filho que aprende a pensar e produzir com IA cresc" [prova da possibilidade]
-headline: QUEM CONSTRÓI | ESCOLHE O PRÓPRIO LADO
-hook: a diferença entre os dois lados é {ação}
-A pair of hands laying the last brick on top of a small hand-built wall at golden hour, warm light, sense of completion and ownership, photographic realism, no text
+IMAGEM 5 — "pais e famílias com visão de futuro — consequência" [consequência]
+headline: O QUE SEGUE | SEM VOCÊ
+hook: {o resultado} não espera ninguém
+A worn family photo on a shelf next to a small glowing screen, warm nostalgic light, shallow depth of field
 
-IMAGEM 6 — "convite direto" [engajamento]
-headline: ESCREVE AQUI | QUAL É O SEU LADO
-hook: o que você escreve hoje vira {compromisso}
-An open notebook on a wooden desk with a pen resting across a blank page, warm lamp light, morning atmosphere, no legible text, photographic realism
+IMAGEM 6 — "pais e famílias com visão de futuro — primeiro passo" [primeiro passo]
+headline: O QUE COMEÇA | HOJE
+hook: {o primeiro passo} não espera ninguém
+A child's drawing taped to a wall beside a printed diploma, contrasting eras, natural daylight, no legible text
 
 ## ESTRUTURA
-Direção: dor específica → consequência de continuar dependendo → primeiro passo nomeado (aprender IA hoje) → CTA de compromisso público.
+Dor específica → consequência de não agir → primeiro passo nomeado → compromisso público nos comentários.

@@ -1,54 +1,55 @@
-Tipo: autoridade (aut)
-Formato escolhido: causa e consequência
+Tipo: aut
+Formato escolhido: explicação prática
 
 ## Ganchos descartados
-1. "Você sabia que dá pra aprender isso sozinho?" [descartado: é saudação/"você sabia", proibido pela regra 1]
-2. "Existem só dois grupos, e um deles encolhe." [descartado: se basta sozinha, não passa no teste da lacuna]
-3. "Quase ninguém explica sentir que todo mundo tira proveito da IA menos você direito." [descartado: mais de 9 palavras, ou vaga demais pro público]
-4. "O emprego nunca foi a rede de segurança que parecia." [descartado: correto mas frio — não acerta a emoção certa]
-5. "Isso que te protegia não protege mais." [vencedor]
+1. Você já pensou em como a IA muda sua área? [descartado]
+2. A maioria de pessoa comum usa IA errado, e nem percebe. [descartado]
+3. Isso que você acha que domina, você domina pela metade. [descartado]
+4. Ferramenta não é sistema, e a diferença custa caro. [descartado]
+5. O erro mais comum não é não usar IA — é usar sem método. [vencedor]
 Emoção-gatilho da vencedora: vergonha de já ter percebido e não ter feito nada.
+Por que venceu: nomeia o erro específico sem soar genérico, e obriga a pessoa a se perguntar se é o caso dela.
 
 ### FALA
-Tem uma coisa que quase ninguém te conta sobre sentir que todo mundo tira proveito da IA menos você: o problema nunca foi a IA em si — é depender de uma coisa só. Emprego, salário, instituição: as três dependem de alguém decidir por você. Repara em o grupo de família cheio de print de IA que você só rola sem clicar. Isso é o efeito de ficar só do lado que aceita. Agora o outro lado: quem sai do modo espectador e aprende o básico de verdade já sai na frente de quase todo mundo. Não é sobre virar expert da noite pro dia — é sobre trocar UMA dependência por UMA competência: aprender IA de verdade, aprender a vender o que você sabe, e transformar isso em renda que não some se o emprego sumir. O princípio fica: quem só depende, aceita o que sobra. Quem constrói, escolhe.
+O erro mais comum não é não usar IA — é usar sem método. Você rolando o feed vendo todo mundo "ganhando" com ia enquanto você só usa pra tirar dúvida boba, e o motivo não é falta de esforço: é falta de sistema. Aprender a ferramenta da moda não resolve nada sozinho — resolve saber o que fazer com ela: usar pra vender, pra produzir, pra construir alguma coisa que sobra depois que você desliga o computador. Você usa IA do jeito preguiçoso; dá pra fazer muito melhor com truques simples. Isso não é sorte, é método — e método se aprende, não se herda. Quem entende isso primeiro sai na frente; quem só assiste, fica pra trás sem perceber quando.
 
 ### SOBREPOSIÇÕES DE TELA
-ATENÇÃO (0–2s): "Isso que te protegia não protege mais."
+ATENÇÃO (0–2s): "O erro mais comum não é não usar IA — é usar sem método."
 RETENÇÃO: a lacuna entre quem decide e quem só aceita — só fecha ouvindo até o fim
-PROVA: o grupo de família cheio de print de IA que você só rola sem clicar, na tela
-ENGAJAMENTO: marca alguém que precisa ouvir isso com você
-CTA (fecho): marca alguém que precisa ouvir isso com você
+PROVA: o feed cheio de gente mostrando resultado, o aplicativo que você abre e fecha sem saber o que fazer, na tela
+ENGAJAMENTO: comenta em qual dos dois você está hoje: testando ferramenta ou construindo sistema
+CTA (fecho): comenta em qual dos dois você está hoje: testando ferramenta ou construindo sistema
 
 ## IMAGENS
-IMAGEM 1 — "Isso que te protegia não protege mais." [atenção choque]
-headline: DOIS LADOS | SÓ UM DECIDE
+IMAGEM 1 — "O erro mais comum não é" [atenção choque]
+headline: MÉTODO | NÃO É SORTE
 hook: quem fica esperando não escolhe {o lado}
-Two identical wooden chairs facing opposite directions in an empty room, one lit by warm light from a window, the other in cold shadow, cinematic realism, no text, no hologram
+A phone screen scrolling a blurred social feed in a dim room at night, cool glow on a face-out-of-frame hand, no legible text
 
-IMAGEM 2 — "a dor de sentir que todo mundo tira proveito da IA menos você" [tensão]
-headline: NINGUÉM VAI | TE SALVAR DISSO
-hook: a espera custa mais do que {o risco}
-A person's hand resting on a closed door handle that does not turn, warm hallway light beyond a frosted glass, tension in stillness, photographic realism, no text, no person's face visible
+IMAGEM 2 — "pessoa comum — tensão" [tensão]
+headline: O QUE CUSTA | ESPERAR
+hook: {o tempo} não espera ninguém
+An app icon grid on a home screen with one icon slightly faded and unopened, soft daylight, no legible text
 
-IMAGEM 3 — "o grupo de família cheio de print de IA que você só rola sem clicar" [prova concreta]
-headline: É ISSO QUE | ACONTECE TODO DIA
-hook: o detalhe pequeno mostra {o padrão} inteiro
-A close-up of an inbox on a laptop screen showing an empty unread state, soft daylight from a window, shallow depth of field, no legible text, photographic realism
+IMAGEM 3 — "pessoa comum — prova concreta" [prova concreta]
+headline: O QUE PROVA | TODO DIA
+hook: {o padrão} não espera ninguém
+Two identical rooms side by side, one cluttered and dim, the other organized and lit, split composition, cinematic realism
 
-IMAGEM 4 — "o outro lado da história" [virada]
-headline: APRENDER MUDA | O LADO DA MESA
-hook: a mesma ferramenta que ameaça também {liberta}
-A single seed cracking open on dark soil with a thin green sprout emerging, macro shot, warm directional light, high detail, no text
+IMAGEM 4 — "pessoa comum — virada" [virada]
+headline: O QUE VIRA | DE LADO
+hook: {a escolha} não espera ninguém
+A single unread notification badge glowing red on a dark phone screen, shallow depth of field, no legible numbers
 
-IMAGEM 5 — "quem sai do modo espectador e aprende o básico de " [prova da possibilidade]
-headline: QUEM CONSTRÓI | ESCOLHE O PRÓPRIO LADO
-hook: a diferença entre os dois lados é {ação}
-A pair of hands laying the last brick on top of a small hand-built wall at golden hour, warm light, sense of completion and ownership, photographic realism, no text
+IMAGEM 5 — "pessoa comum — consequência" [consequência]
+headline: O QUE SEGUE | SEM VOCÊ
+hook: {o resultado} não espera ninguém
+A hand hovering undecided over a keyboard, cursor blinking on an empty text field, warm desk light, no legible text
 
-IMAGEM 6 — "convite direto" [engajamento]
-headline: ESCREVE AQUI | QUAL É O SEU LADO
-hook: o que você escreve hoje vira {compromisso}
-An open notebook on a wooden desk with a pen resting across a blank page, warm lamp light, morning atmosphere, no legible text, photographic realism
+IMAGEM 6 — "pessoa comum — primeiro passo" [primeiro passo]
+headline: O QUE COMEÇA | HOJE
+hook: {o primeiro passo} não espera ninguém
+An open window with morning light pouring into a cluttered room, a path cleared through the clutter toward it, photographic realism
 
 ## ESTRUTURA
-Causa e consequência: parte do que o público acha que entende pela metade, expõe a dependência estrutural, e fecha com o princípio repetível (dependência x competência).
+O que a pessoa acha que domina → o erro real → o método → princípio repetível → convite a testar/salvar.

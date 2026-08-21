@@ -1,54 +1,55 @@
-Tipo: direção (pro)
+Tipo: pro
 Formato escolhido: direção (dor → consequência → primeiro passo)
 
 ## Ganchos descartados
-1. "Você sabia que dá pra mudar isso hoje?" [descartado: é saudação/"você sabia", proibido pela regra 1]
-2. "Esperar o emprego resolver não vai resolver." [descartado: se basta sozinha, não passa no teste da lacuna]
-3. "Você, 47 anos, currículo bom, esperando uma entrevista que não volta não escolheu ficar assim." [descartado: mais de 9 palavras, ou vaga demais pro público]
-4. "Só existem dois lados, e um deles cansa." [descartado: correto mas frio — não acerta a emoção certa]
-5. "O primeiro passo não custa nada além de começar." [vencedor]
-Emoção-gatilho da vencedora: medo de ficar para trás.
+1. Você merece uma vida melhor. [descartado]
+2. Ninguém vai fazer isso por você — nem hoje, nem depois. [descartado]
+3. Você, 47 anos, currículo bom, vendo a vaga fechar sem retorno. [descartado]
+4. Esperar já é uma escolha, só que ruim. [descartado]
+5. O primeiro passo não pede permissão de ninguém. [vencedor]
+Emoção-gatilho da vencedora: injustiça ("estão decidindo por você").
+Por que venceu: é a única com verbo de ação imediata — as outras descrevem o problema em vez de abrir o passo.
 
 ### FALA
-Você, 47 anos, currículo bom, esperando uma entrevista que não volta. E a verdade é que esperar não vai mudar isso. Se poucas empresas controlam as máquinas, elas vão ter o poder — e reclamar não muda sua situação. A consequência de continuar só esperando é ficar do lado de quem depende, obedece e aceita. O primeiro passo não é abandonar tudo: é separar, ainda hoje, trinta minutos pra aprender IA de verdade — não pra usar de qualquer jeito, pra usar bem. Quem tem 25 anos de estrada E aprendeu a usar IA vira o mais rápido da sala, não o mais lento. Começa por aí. Escreve aqui embaixo o que você vai fazer esta semana — e eu quero ver.
+O primeiro passo não pede permissão de ninguém. Você, 47 anos, currículo bom, vendo a vaga fechar sem retorno — e esperar não vai mudar essa situação, reclamar também não. Se poucas empresas controlam as máquinas, elas terão o poder; se o governo não conseguir te proteger, ninguém vai fazer isso no seu lugar. A consequência de só esperar é ficar do lado de quem depende, obedece e aceita. O primeiro passo é pequeno: hoje, separe um tempo pra aprender a usar IA de verdade — não pra testar, pra construir alguma coisa sua. Escreve aqui embaixo o que você vai fazer esta semana. Eu quero ler.
 
 ### SOBREPOSIÇÕES DE TELA
-ATENÇÃO (0–2s): "O primeiro passo não custa nada além de começar."
+ATENÇÃO (0–2s): "O primeiro passo não pede permissão de ninguém."
 RETENÇÃO: a lacuna entre quem decide e quem só aceita — só fecha ouvindo até o fim
-PROVA: a vaga que pede "jovem e dinâmico" nas entrelinhas, na tela
-ENGAJAMENTO: escreve nos comentários o que você vai fazer esta semana
-CTA (fecho): escreve nos comentários o que você vai fazer esta semana
+PROVA: a entrevista que não volta, a vaga que pede "jovem e dinâmico" nas entrelinhas, na tela
+ENGAJAMENTO: escreve aqui embaixo o que você vai fazer esta semana
+CTA (fecho): escreve aqui embaixo o que você vai fazer esta semana
 
 ## IMAGENS
-IMAGEM 1 — "O primeiro passo não custa nada além de " [atenção choque]
-headline: DOIS LADOS | SÓ UM DECIDE
+IMAGEM 1 — "O primeiro passo não pede permissão" [atenção choque]
+headline: O PASSO | NÃO ESPERA
 hook: quem fica esperando não escolhe {o lado}
-Two identical wooden chairs facing opposite directions in an empty room, one lit by warm light from a window, the other in cold shadow, cinematic realism, no text, no hologram
+A worn leather briefcase set beside a brand-new backpack on an office bench, warm afternoon light, shallow depth of field, photographic realism, no text, no people
 
-IMAGEM 2 — "a dor de ser preterido por gente mais nova" [tensão]
-headline: NINGUÉM VAI | TE SALVAR DISSO
-hook: a espera custa mais do que {o risco}
-A person's hand resting on a closed door handle that does not turn, warm hallway light beyond a frosted glass, tension in stillness, photographic realism, no text, no person's face visible
+IMAGEM 2 — "40+ — tensão" [tensão]
+headline: O QUE CUSTA | ESPERAR
+hook: {o tempo} não espera ninguém
+A hand hovering over a closed laptop, reflection of a window on the dark screen, cold blue light, tension in stillness, no text visible
 
-IMAGEM 3 — "a vaga que pede "jovem e dinâmico" nas entrelinhas" [prova concreta]
-headline: É ISSO QUE | ACONTECE TODO DIA
-hook: o detalhe pequeno mostra {o padrão} inteiro
-A close-up of an inbox on a laptop screen showing an empty unread state, soft daylight from a window, shallow depth of field, no legible text, photographic realism
+IMAGEM 3 — "40+ — prova concreta" [prova concreta]
+headline: O QUE PROVA | TODO DIA
+hook: {o padrão} não espera ninguém
+Two chairs at an empty interview table, one pushed in, one pulled out mid-motion, warm light from a side window, cinematic realism
 
-IMAGEM 4 — "o outro lado da história" [virada]
-headline: APRENDER MUDA | O LADO DA MESA
-hook: a mesma ferramenta que ameaça também {liberta}
-A single seed cracking open on dark soil with a thin green sprout emerging, macro shot, warm directional light, high detail, no text
+IMAGEM 4 — "40+ — virada" [virada]
+headline: O QUE VIRA | DE LADO
+hook: {a escolha} não espera ninguém
+A stack of paper resumes next to a single glowing phone screen face-down on a wooden desk, soft daylight, no legible text
 
-IMAGEM 5 — "quem tem 25 anos de estrada E aprendeu a usar IA v" [prova da possibilidade]
-headline: QUEM CONSTRÓI | ESCOLHE O PRÓPRIO LADO
-hook: a diferença entre os dois lados é {ação}
-A pair of hands laying the last brick on top of a small hand-built wall at golden hour, warm light, sense of completion and ownership, photographic realism, no text
+IMAGEM 5 — "40+ — consequência" [consequência]
+headline: O QUE SEGUE | SEM VOCÊ
+hook: {o resultado} não espera ninguém
+An open door at the end of a long hallway with morning light spilling in, the near end in shadow, photographic realism
 
-IMAGEM 6 — "convite direto" [engajamento]
-headline: ESCREVE AQUI | QUAL É O SEU LADO
-hook: o que você escreve hoje vira {compromisso}
-An open notebook on a wooden desk with a pen resting across a blank page, warm lamp light, morning atmosphere, no legible text, photographic realism
+IMAGEM 6 — "40+ — primeiro passo" [primeiro passo]
+headline: O QUE COMEÇA | HOJE
+hook: {o primeiro passo} não espera ninguém
+A pair of hands, one older one younger, both typing on separate keyboards side by side, warm collaborative light, no faces visible
 
 ## ESTRUTURA
-Direção: dor específica → consequência de continuar dependendo → primeiro passo nomeado (aprender IA hoje) → CTA de compromisso público.
+Dor específica → consequência de não agir → primeiro passo nomeado → compromisso público nos comentários.

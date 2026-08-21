@@ -1,54 +1,55 @@
-Tipo: alcance (alc)
-Formato escolhido: consequência inesperada
+Tipo: alc
+Formato escolhido: afirmação provocativa
 
 ## Ganchos descartados
-1. "Ninguém vai te salvar disso." [descartado: é saudação/"você sabia", proibido pela regra 1]
-2. "Você sabia que a IA está mudando o mercado?" [descartado: se basta sozinha, não passa no teste da lacuna]
-3. "O caderno cheio de matéria decorada que a IA resolve em segundos." [descartado: mais de 9 palavras, ou vaga demais pro público]
-4. "Duas pessoas. Um só lado sobra pra cada uma." [descartado: correto mas frio — não acerta a emoção certa]
-5. "Um lado decide. O outro só aceita." [vencedor]
-Emoção-gatilho da vencedora: pertencimento (os que entenderam já estão fazendo).
+1. "Você sabia que a IA está mudando tudo?" [descartado]
+2. "Você olhando o caderno do seu filho e vendo exercícios que já não preparam pra nada." [descartado]
+3. Ninguém vai te salvar disso. [descartado]
+4. Existem dois lados, e um deles cansa mais rápido. [descartado]
+5. Quem decide não é quem trabalha mais. [vencedor]
+Emoção-gatilho da vencedora: medo de ficar para trás.
+Por que venceu: é a única que cria pergunta sem se explicar — as outras se bastam ou viram contexto.
 
 ### FALA
-Um lado decide. O outro só aceita. Ninguém vai te salvar disso — nem chefe, nem governo, nem sorte. Se a máquina faz seu trabalho melhor e mais barato, olhando o boletim do seu filho e sabendo que aquilo não é o que o mundo vai cobrar dele vira o primeiro a sentir. A régua mudou: quem depende de emprego, salário e instituição fica na fila esperando alguém decidir por ele. Quem aprende a usar IA, a vender e a construir o próprio, decide por si. Filho que aprende a pensar e produzir com IA cresce pro lado de quem decide, não de quem obedece. A pergunta não é se essa divisão vai acontecer — é de que lado você vai estar quando ela acontecer.
+Quem decide não é quem trabalha mais. Ninguém vai te salvar — nem chefe, nem governo, nem sorte. Se a máquina faz o trabalho melhor e mais barato, você olhando o caderno do seu filho e vendo exercícios que já não preparam pra nada sente isso primeiro. O mundo está se dividindo em dois times: quem possui, decide e controla, e quem depende, obedece e aceita. O caderno cheio de matéria decorada, o filho perguntando o que fazer depois da escola é o detalhe pequeno que mostra o padrão inteiro. A pergunta não é se essa divisão vai acontecer — é de que lado você vai estar quando ela acontecer.
 
 ### SOBREPOSIÇÕES DE TELA
-ATENÇÃO (0–2s): "Um lado decide. O outro só aceita."
+ATENÇÃO (0–2s): "Quem decide não é quem trabalha mais."
 RETENÇÃO: a lacuna entre quem decide e quem só aceita — só fecha ouvindo até o fim
-PROVA: o caderno cheio de matéria decorada que a IA resolve em segundos, na tela
-ENGAJAMENTO: responde 1 se você tá construindo, ou 2 se você tá só esperando — e não vale ficar em cima do muro
-CTA (fecho): responde 1 se você tá construindo, ou 2 se você tá só esperando — e não vale ficar em cima do muro
+PROVA: o caderno cheio de matéria decorada, o filho perguntando o que fazer depois da escola, na tela
+ENGAJAMENTO: responde 1 se você decide, ou 2 se você só aceita — e não vale ficar em cima do muro
+CTA (fecho): responde 1 se você decide, ou 2 se você só aceita — e não vale ficar em cima do muro
 
 ## IMAGENS
-IMAGEM 1 — "Um lado decide. O outro só aceita." [atenção choque]
+IMAGEM 1 — "Quem decide não é quem trabalha" [atenção choque]
 headline: DOIS LADOS | SÓ UM DECIDE
 hook: quem fica esperando não escolhe {o lado}
-Two identical wooden chairs facing opposite directions in an empty room, one lit by warm light from a window, the other in cold shadow, cinematic realism, no text, no hologram
+An open school notebook filled with handwriting next to a closed laptop, warm kitchen table light, photographic realism, no legible text
 
-IMAGEM 2 — "a dor de ver que a escola prepara seu filho pro mundo de ontem" [tensão]
-headline: NINGUÉM VAI | TE SALVAR DISSO
-hook: a espera custa mais do que {o risco}
-A person's hand resting on a closed door handle that does not turn, warm hallway light beyond a frosted glass, tension in stillness, photographic realism, no text, no person's face visible
+IMAGEM 2 — "pais e famílias com visão de futuro — tensão" [tensão]
+headline: O QUE CUSTA | ESPERAR
+hook: {o tempo} não espera ninguém
+A child's backpack hanging by a door beside an adult's briefcase, morning light, quiet parallel, no people
 
-IMAGEM 3 — "o caderno cheio de matéria decorada que a IA resolve em segundos" [prova concreta]
-headline: É ISSO QUE | ACONTECE TODO DIA
-hook: o detalhe pequeno mostra {o padrão} inteiro
-A close-up of an inbox on a laptop screen showing an empty unread state, soft daylight from a window, shallow depth of field, no legible text, photographic realism
+IMAGEM 3 — "pais e famílias com visão de futuro — prova concreta" [prova concreta]
+headline: O QUE PROVA | TODO DIA
+hook: {o padrão} não espera ninguém
+Two hands, an adult's and a child's, both pointing at the same tablet screen, warm family light, no faces visible
 
-IMAGEM 4 — "o outro lado da história" [virada]
-headline: APRENDER MUDA | O LADO DA MESA
-hook: a mesma ferramenta que ameaça também {liberta}
-A single seed cracking open on dark soil with a thin green sprout emerging, macro shot, warm directional light, high detail, no text
+IMAGEM 4 — "pais e famílias com visão de futuro — virada" [virada]
+headline: O QUE VIRA | DE LADO
+hook: {a escolha} não espera ninguém
+An empty chair at a family dinner table set for four, soft evening light, quiet tension, no text
 
-IMAGEM 5 — "filho que aprende a pensar e produzir com IA cresc" [prova da possibilidade]
-headline: QUEM CONSTRÓI | ESCOLHE O PRÓPRIO LADO
-hook: a diferença entre os dois lados é {ação}
-A pair of hands laying the last brick on top of a small hand-built wall at golden hour, warm light, sense of completion and ownership, photographic realism, no text
+IMAGEM 5 — "pais e famílias com visão de futuro — consequência" [consequência]
+headline: O QUE SEGUE | SEM VOCÊ
+hook: {o resultado} não espera ninguém
+A worn family photo on a shelf next to a small glowing screen, warm nostalgic light, shallow depth of field
 
-IMAGEM 6 — "convite direto" [engajamento]
-headline: ESCREVE AQUI | QUAL É O SEU LADO
-hook: o que você escreve hoje vira {compromisso}
-An open notebook on a wooden desk with a pen resting across a blank page, warm lamp light, morning atmosphere, no legible text, photographic realism
+IMAGEM 6 — "pais e famílias com visão de futuro — primeiro passo" [primeiro passo]
+headline: O QUE COMEÇA | HOJE
+hook: {o primeiro passo} não espera ninguém
+A child's drawing taped to a wall beside a printed diploma, contrasting eras, natural daylight, no legible text
 
 ## ESTRUTURA
-Consequência inesperada: abre no confronto entre os dois lados (quem decide x quem aceita), recompensa o gancho no fecho reafirmando a divisão — sem citar marca, sem CTA comercial.
+Dor → possibilidade → prova concreta → engajamento (escolha binária). Sem marca, sem CTA comercial.

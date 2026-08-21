@@ -1,54 +1,55 @@
-Tipo: alcance (alc)
-Formato escolhido: pergunta incômoda
+Tipo: alc
+Formato escolhido: afirmação provocativa
 
 ## Ganchos descartados
-1. "Ninguém vai te salvar disso." [descartado: é saudação/"você sabia", proibido pela regra 1]
-2. "Você sabia que a IA está mudando o mercado?" [descartado: se basta sozinha, não passa no teste da lacuna]
-3. "A pasta cheia de projetos pela metade." [descartado: mais de 9 palavras, ou vaga demais pro público]
-4. "Duas pessoas. Um só lado sobra pra cada uma." [descartado: correto mas frio — não acerta a emoção certa]
-5. "Um lado decide. O outro só aceita." [vencedor]
-Emoção-gatilho da vencedora: orgulho ferido.
+1. "Você sabia que a IA está mudando tudo?" [descartado]
+2. "Você com vinte abas abertas de tutorial e nenhum sistema seu no ar." [descartado]
+3. Ninguém vai te salvar disso. [descartado]
+4. Existem dois lados, e um deles cansa mais rápido. [descartado]
+5. Quem decide não é quem trabalha mais. [vencedor]
+Emoção-gatilho da vencedora: medo de ficar para trás.
+Por que venceu: é a única que cria pergunta sem se explicar — as outras se bastam ou viram contexto.
 
 ### FALA
-Um lado decide. O outro só aceita. Ninguém vai te salvar disso — nem chefe, nem governo, nem sorte. Se a máquina faz seu trabalho melhor e mais barato, com trinta abas abertas de tutorial, sem nunca ter terminado um sistema seu vira o primeiro a sentir. A régua mudou: quem depende de emprego, salário e instituição fica na fila esperando alguém decidir por ele. Quem aprende a usar IA, a vender e a construir o próprio, decide por si. Quem constrói sistema próprio com IA deixa de vender hora e passa a vender resultado. A pergunta não é se essa divisão vai acontecer — é de que lado você vai estar quando ela acontecer.
+Quem decide não é quem trabalha mais. Ninguém vai te salvar — nem chefe, nem governo, nem sorte. Se a máquina faz o trabalho melhor e mais barato, você com vinte abas abertas de tutorial e nenhum sistema seu no ar sente isso primeiro. O mundo está se dividindo em dois times: quem possui, decide e controla, e quem depende, obedece e aceita. A vigésima aba de tutorial aberta, o projeto que nunca sai do zero é o detalhe pequeno que mostra o padrão inteiro. A pergunta não é se essa divisão vai acontecer — é de que lado você vai estar quando ela acontecer.
 
 ### SOBREPOSIÇÕES DE TELA
-ATENÇÃO (0–2s): "Um lado decide. O outro só aceita."
+ATENÇÃO (0–2s): "Quem decide não é quem trabalha mais."
 RETENÇÃO: a lacuna entre quem decide e quem só aceita — só fecha ouvindo até o fim
-PROVA: a pasta cheia de projetos pela metade, na tela
-ENGAJAMENTO: comenta aqui em qual dos dois grupos você se vê hoje
-CTA (fecho): comenta aqui em qual dos dois grupos você se vê hoje
+PROVA: a vigésima aba de tutorial aberta, o projeto que nunca sai do zero, na tela
+ENGAJAMENTO: responde 1 se você decide, ou 2 se você só aceita — e não vale ficar em cima do muro
+CTA (fecho): responde 1 se você decide, ou 2 se você só aceita — e não vale ficar em cima do muro
 
 ## IMAGENS
-IMAGEM 1 — "Um lado decide. O outro só aceita." [atenção choque]
+IMAGEM 1 — "Quem decide não é quem trabalha" [atenção choque]
 headline: DOIS LADOS | SÓ UM DECIDE
 hook: quem fica esperando não escolhe {o lado}
-Two identical wooden chairs facing opposite directions in an empty room, one lit by warm light from a window, the other in cold shadow, cinematic realism, no text, no hologram
+A computer screen with dozens of open browser tabs blurred into a wall of color, dim room, cool light, no legible text
 
-IMAGEM 2 — "a dor de virar testador de ferramenta da moda" [tensão]
-headline: NINGUÉM VAI | TE SALVAR DISSO
-hook: a espera custa mais do que {o risco}
-A person's hand resting on a closed door handle that does not turn, warm hallway light beyond a frosted glass, tension in stillness, photographic realism, no text, no person's face visible
+IMAGEM 2 — "técnicos — tensão" [tensão]
+headline: O QUE CUSTA | ESPERAR
+hook: {o tempo} não espera ninguém
+A tangle of cables on a desk beside a single clean, organized cable running to one device, split composition, photographic realism, no text
 
-IMAGEM 3 — "a pasta cheia de projetos pela metade" [prova concreta]
-headline: É ISSO QUE | ACONTECE TODO DIA
-hook: o detalhe pequeno mostra {o padrão} inteiro
-A close-up of an inbox on a laptop screen showing an empty unread state, soft daylight from a window, shallow depth of field, no legible text, photographic realism
+IMAGEM 3 — "técnicos — prova concreta" [prova concreta]
+headline: O QUE PROVA | TODO DIA
+hook: {o padrão} não espera ninguém
+An empty terminal window cursor blinking on a dark screen, shallow depth of field, no legible characters
 
-IMAGEM 4 — "o outro lado da história" [virada]
-headline: APRENDER MUDA | O LADO DA MESA
-hook: a mesma ferramenta que ameaça também {liberta}
-A single seed cracking open on dark soil with a thin green sprout emerging, macro shot, warm directional light, high detail, no text
+IMAGEM 4 — "técnicos — virada" [virada]
+headline: O QUE VIRA | DE LADO
+hook: {a escolha} não espera ninguém
+A toolbox open with scattered tools next to a single precisely built mechanism, workshop lighting, no text
 
-IMAGEM 5 — "quem constrói sistema próprio com IA deixa de vend" [prova da possibilidade]
-headline: QUEM CONSTRÓI | ESCOLHE O PRÓPRIO LADO
-hook: a diferença entre os dois lados é {ação}
-A pair of hands laying the last brick on top of a small hand-built wall at golden hour, warm light, sense of completion and ownership, photographic realism, no text
+IMAGEM 5 — "técnicos — consequência" [consequência]
+headline: O QUE SEGUE | SEM VOCÊ
+hook: {o resultado} não espera ninguém
+Two monitors side by side, one cluttered with windows, the other showing a single clean running process, cool office light, no legible text
 
-IMAGEM 6 — "convite direto" [engajamento]
-headline: ESCREVE AQUI | QUAL É O SEU LADO
-hook: o que você escreve hoje vira {compromisso}
-An open notebook on a wooden desk with a pen resting across a blank page, warm lamp light, morning atmosphere, no legible text, photographic realism
+IMAGEM 6 — "técnicos — primeiro passo" [primeiro passo]
+headline: O QUE COMEÇA | HOJE
+hook: {o primeiro passo} não espera ninguém
+A hand closing dozens of browser tabs one by one, motion blur, focused desk lamp light, no face visible
 
 ## ESTRUTURA
-Pergunta incômoda: abre no confronto entre os dois lados (quem decide x quem aceita), recompensa o gancho no fecho reafirmando a divisão — sem citar marca, sem CTA comercial.
+Dor → possibilidade → prova concreta → engajamento (escolha binária). Sem marca, sem CTA comercial.

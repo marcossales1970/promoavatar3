@@ -1,54 +1,55 @@
-Tipo: alcance (alc)
-Formato escolhido: mito versus realidade
+Tipo: alc
+Formato escolhido: afirmação provocativa
 
 ## Ganchos descartados
-1. "Ninguém vai te salvar disso." [descartado: é saudação/"você sabia", proibido pela regra 1]
-2. "Você sabia que a IA está mudando o mercado?" [descartado: se basta sozinha, não passa no teste da lacuna]
-3. "O canal com metade dos seus seguidores que já te ultrapassou." [descartado: mais de 9 palavras, ou vaga demais pro público]
-4. "Duas pessoas. Um só lado sobra pra cada uma." [descartado: correto mas frio — não acerta a emoção certa]
-5. "Um lado decide. O outro só aceita." [vencedor]
-Emoção-gatilho da vencedora: injustiça (estão decidindo por você).
+1. "Você sabia que a IA está mudando tudo?" [descartado]
+2. "Você, câmera ligada às 23h porque o vídeo de amanhã ainda não existe." [descartado]
+3. Ninguém vai te salvar disso. [descartado]
+4. Existem dois lados, e um deles cansa mais rápido. [descartado]
+5. Quem decide não é quem trabalha mais. [vencedor]
+Emoção-gatilho da vencedora: medo de ficar para trás.
+Por que venceu: é a única que cria pergunta sem se explicar — as outras se bastam ou viram contexto.
 
 ### FALA
-Um lado decide. O outro só aceita. Ninguém vai te salvar disso — nem chefe, nem governo, nem sorte. Se a máquina faz seu trabalho melhor e mais barato, gravando o terceiro vídeo do dia sem energia pro quarto vira o primeiro a sentir. A régua mudou: quem depende de emprego, salário e instituição fica na fila esperando alguém decidir por ele. Quem aprende a usar IA, a vender e a construir o próprio, decide por si. Quem monta a própria fábrica de conteúdo com IA para de depender do algoritmo pra sobreviver. A pergunta não é se essa divisão vai acontecer — é de que lado você vai estar quando ela acontecer.
+Quem decide não é quem trabalha mais. Ninguém vai te salvar — nem chefe, nem governo, nem sorte. Se a máquina faz o trabalho melhor e mais barato, você, câmera ligada às 23h porque o vídeo de amanhã ainda não existe sente isso primeiro. O mundo está se dividindo em dois times: quem possui, decide e controla, e quem depende, obedece e aceita. A fatura da assinatura que não se paga sozinha, o canal menor ultrapassando o seu no mês é o detalhe pequeno que mostra o padrão inteiro. A pergunta não é se essa divisão vai acontecer — é de que lado você vai estar quando ela acontecer.
 
 ### SOBREPOSIÇÕES DE TELA
-ATENÇÃO (0–2s): "Um lado decide. O outro só aceita."
+ATENÇÃO (0–2s): "Quem decide não é quem trabalha mais."
 RETENÇÃO: a lacuna entre quem decide e quem só aceita — só fecha ouvindo até o fim
-PROVA: o canal com metade dos seus seguidores que já te ultrapassou, na tela
-ENGAJAMENTO: se você acha que isso é exagero, escreve o porquê, eu quero ler
-CTA (fecho): se você acha que isso é exagero, escreve o porquê, eu quero ler
+PROVA: a fatura da assinatura que não se paga sozinha, o canal menor ultrapassando o seu no mês, na tela
+ENGAJAMENTO: responde 1 se você decide, ou 2 se você só aceita — e não vale ficar em cima do muro
+CTA (fecho): responde 1 se você decide, ou 2 se você só aceita — e não vale ficar em cima do muro
 
 ## IMAGENS
-IMAGEM 1 — "Um lado decide. O outro só aceita." [atenção choque]
+IMAGEM 1 — "Quem decide não é quem trabalha" [atenção choque]
 headline: DOIS LADOS | SÓ UM DECIDE
 hook: quem fica esperando não escolhe {o lado}
-Two identical wooden chairs facing opposite directions in an empty room, one lit by warm light from a window, the other in cold shadow, cinematic realism, no text, no hologram
+A ring light switched off beside a phone showing a blank recording screen, cluttered desk at night, cool light, photographic realism, no text
 
-IMAGEM 2 — "a dor de pagar ferramenta cara pelo retorno que dá" [tensão]
-headline: NINGUÉM VAI | TE SALVAR DISSO
-hook: a espera custa mais do que {o risco}
-A person's hand resting on a closed door handle that does not turn, warm hallway light beyond a frosted glass, tension in stillness, photographic realism, no text, no person's face visible
+IMAGEM 2 — "criadores de conteúdo — tensão" [tensão]
+headline: O QUE CUSTA | ESPERAR
+hook: {o tempo} não espera ninguém
+A single subscriber counter on a screen frozen mid-number, blurred motion around it, dark room, no legible digits, cinematic realism
 
-IMAGEM 3 — "o canal com metade dos seus seguidores que já te ultrapassou" [prova concreta]
-headline: É ISSO QUE | ACONTECE TODO DIA
-hook: o detalhe pequeno mostra {o padrão} inteiro
-A close-up of an inbox on a laptop screen showing an empty unread state, soft daylight from a window, shallow depth of field, no legible text, photographic realism
+IMAGEM 3 — "criadores de conteúdo — prova concreta" [prova concreta]
+headline: O QUE PROVA | TODO DIA
+hook: {o padrão} não espera ninguém
+A tripod standing alone in an empty room with morning light streaming through blinds, no person, quiet tension
 
-IMAGEM 4 — "o outro lado da história" [virada]
-headline: APRENDER MUDA | O LADO DA MESA
-hook: a mesma ferramenta que ameaça também {liberta}
-A single seed cracking open on dark soil with a thin green sprout emerging, macro shot, warm directional light, high detail, no text
+IMAGEM 4 — "criadores de conteúdo — virada" [virada]
+headline: O QUE VIRA | DE LADO
+hook: {a escolha} não espera ninguém
+Two identical desks side by side, one cluttered with unpaid invoices, the other clean with a single open notebook, split lighting
 
-IMAGEM 5 — "quem monta a própria fábrica de conteúdo com IA pa" [prova da possibilidade]
-headline: QUEM CONSTRÓI | ESCOLHE O PRÓPRIO LADO
-hook: a diferença entre os dois lados é {ação}
-A pair of hands laying the last brick on top of a small hand-built wall at golden hour, warm light, sense of completion and ownership, photographic realism, no text
+IMAGEM 5 — "criadores de conteúdo — consequência" [consequência]
+headline: O QUE SEGUE | SEM VOCÊ
+hook: {o resultado} não espera ninguém
+A stack of unopened camera equipment boxes next to a worn, well-used notebook, warm desk lamp light, no text
 
-IMAGEM 6 — "convite direto" [engajamento]
-headline: ESCREVE AQUI | QUAL É O SEU LADO
-hook: o que você escreve hoje vira {compromisso}
-An open notebook on a wooden desk with a pen resting across a blank page, warm lamp light, morning atmosphere, no legible text, photographic realism
+IMAGEM 6 — "criadores de conteúdo — primeiro passo" [primeiro passo]
+headline: O QUE COMEÇA | HOJE
+hook: {o primeiro passo} não espera ninguém
+A hand closing a laptop lid at night, the room lit only by the fading screen glow, photographic realism, no face
 
 ## ESTRUTURA
-Mito versus realidade: abre no confronto entre os dois lados (quem decide x quem aceita), recompensa o gancho no fecho reafirmando a divisão — sem citar marca, sem CTA comercial.
+Dor → possibilidade → prova concreta → engajamento (escolha binária). Sem marca, sem CTA comercial.

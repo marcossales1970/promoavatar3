@@ -1,54 +1,55 @@
-Tipo: autoridade (aut)
-Formato escolhido: comparação técnica
+Tipo: aut
+Formato escolhido: explicação prática
 
 ## Ganchos descartados
-1. "Você sabia que dá pra aprender isso sozinho?" [descartado: é saudação/"você sabia", proibido pela regra 1]
-2. "Existem só dois grupos, e um deles encolhe." [descartado: se basta sozinha, não passa no teste da lacuna]
-3. "Quase ninguém explica virar testador de ferramenta da moda direito." [descartado: mais de 9 palavras, ou vaga demais pro público]
-4. "O emprego nunca foi a rede de segurança que parecia." [descartado: correto mas frio — não acerta a emoção certa]
-5. "Isso que te protegia não protege mais." [vencedor]
-Emoção-gatilho da vencedora: orgulho ferido.
+1. Você já pensou em como a IA muda sua área? [descartado]
+2. A maioria de técnicos usa IA errado, e nem percebe. [descartado]
+3. Isso que você acha que domina, você domina pela metade. [descartado]
+4. Ferramenta não é sistema, e a diferença custa caro. [descartado]
+5. O erro mais comum não é não usar IA — é usar sem método. [vencedor]
+Emoção-gatilho da vencedora: vergonha de já ter percebido e não ter feito nada.
+Por que venceu: nomeia o erro específico sem soar genérico, e obriga a pessoa a se perguntar se é o caso dela.
 
 ### FALA
-Tem uma coisa que quase ninguém te conta sobre virar testador de ferramenta da moda: o problema nunca foi a IA em si — é depender de uma coisa só. Emprego, salário, instituição: as três dependem de alguém decidir por você. Repara em a pasta cheia de projetos pela metade. Isso é o efeito de ficar só do lado que aceita. Agora o outro lado: quem constrói sistema próprio com IA deixa de vender hora e passa a vender resultado. Não é sobre virar expert da noite pro dia — é sobre trocar UMA dependência por UMA competência: aprender IA de verdade, aprender a vender o que você sabe, e transformar isso em renda que não some se o emprego sumir. O princípio fica: quem só depende, aceita o que sobra. Quem constrói, escolhe.
+O erro mais comum não é não usar IA — é usar sem método. Você com vinte abas abertas de tutorial e nenhum sistema seu no ar, e o motivo não é falta de esforço: é falta de sistema. Aprender a ferramenta da moda não resolve nada sozinho — resolve saber o que fazer com ela: usar pra vender, pra produzir, pra construir alguma coisa que sobra depois que você desliga o computador. Pare de apenas testar ferramentas. Aprenda a construir sistemas e agentes. Isso não é sorte, é método — e método se aprende, não se herda. Quem entende isso primeiro sai na frente; quem só assiste, fica pra trás sem perceber quando.
 
 ### SOBREPOSIÇÕES DE TELA
-ATENÇÃO (0–2s): "Isso que te protegia não protege mais."
+ATENÇÃO (0–2s): "O erro mais comum não é não usar IA — é usar sem método."
 RETENÇÃO: a lacuna entre quem decide e quem só aceita — só fecha ouvindo até o fim
-PROVA: a pasta cheia de projetos pela metade, na tela
-ENGAJAMENTO: comenta aqui em qual dos dois grupos você se vê hoje
-CTA (fecho): comenta aqui em qual dos dois grupos você se vê hoje
+PROVA: a vigésima aba de tutorial aberta, o projeto que nunca sai do zero, na tela
+ENGAJAMENTO: comenta em qual dos dois você está hoje: testando ferramenta ou construindo sistema
+CTA (fecho): comenta em qual dos dois você está hoje: testando ferramenta ou construindo sistema
 
 ## IMAGENS
-IMAGEM 1 — "Isso que te protegia não protege mais." [atenção choque]
-headline: DOIS LADOS | SÓ UM DECIDE
+IMAGEM 1 — "O erro mais comum não é" [atenção choque]
+headline: MÉTODO | NÃO É SORTE
 hook: quem fica esperando não escolhe {o lado}
-Two identical wooden chairs facing opposite directions in an empty room, one lit by warm light from a window, the other in cold shadow, cinematic realism, no text, no hologram
+A computer screen with dozens of open browser tabs blurred into a wall of color, dim room, cool light, no legible text
 
-IMAGEM 2 — "a dor de virar testador de ferramenta da moda" [tensão]
-headline: NINGUÉM VAI | TE SALVAR DISSO
-hook: a espera custa mais do que {o risco}
-A person's hand resting on a closed door handle that does not turn, warm hallway light beyond a frosted glass, tension in stillness, photographic realism, no text, no person's face visible
+IMAGEM 2 — "técnicos — tensão" [tensão]
+headline: O QUE CUSTA | ESPERAR
+hook: {o tempo} não espera ninguém
+A tangle of cables on a desk beside a single clean, organized cable running to one device, split composition, photographic realism, no text
 
-IMAGEM 3 — "a pasta cheia de projetos pela metade" [prova concreta]
-headline: É ISSO QUE | ACONTECE TODO DIA
-hook: o detalhe pequeno mostra {o padrão} inteiro
-A close-up of an inbox on a laptop screen showing an empty unread state, soft daylight from a window, shallow depth of field, no legible text, photographic realism
+IMAGEM 3 — "técnicos — prova concreta" [prova concreta]
+headline: O QUE PROVA | TODO DIA
+hook: {o padrão} não espera ninguém
+An empty terminal window cursor blinking on a dark screen, shallow depth of field, no legible characters
 
-IMAGEM 4 — "o outro lado da história" [virada]
-headline: APRENDER MUDA | O LADO DA MESA
-hook: a mesma ferramenta que ameaça também {liberta}
-A single seed cracking open on dark soil with a thin green sprout emerging, macro shot, warm directional light, high detail, no text
+IMAGEM 4 — "técnicos — virada" [virada]
+headline: O QUE VIRA | DE LADO
+hook: {a escolha} não espera ninguém
+A toolbox open with scattered tools next to a single precisely built mechanism, workshop lighting, no text
 
-IMAGEM 5 — "quem constrói sistema próprio com IA deixa de vend" [prova da possibilidade]
-headline: QUEM CONSTRÓI | ESCOLHE O PRÓPRIO LADO
-hook: a diferença entre os dois lados é {ação}
-A pair of hands laying the last brick on top of a small hand-built wall at golden hour, warm light, sense of completion and ownership, photographic realism, no text
+IMAGEM 5 — "técnicos — consequência" [consequência]
+headline: O QUE SEGUE | SEM VOCÊ
+hook: {o resultado} não espera ninguém
+Two monitors side by side, one cluttered with windows, the other showing a single clean running process, cool office light, no legible text
 
-IMAGEM 6 — "convite direto" [engajamento]
-headline: ESCREVE AQUI | QUAL É O SEU LADO
-hook: o que você escreve hoje vira {compromisso}
-An open notebook on a wooden desk with a pen resting across a blank page, warm lamp light, morning atmosphere, no legible text, photographic realism
+IMAGEM 6 — "técnicos — primeiro passo" [primeiro passo]
+headline: O QUE COMEÇA | HOJE
+hook: {o primeiro passo} não espera ninguém
+A hand closing dozens of browser tabs one by one, motion blur, focused desk lamp light, no face visible
 
 ## ESTRUTURA
-Comparação técnica: parte do que o público acha que entende pela metade, expõe a dependência estrutural, e fecha com o princípio repetível (dependência x competência).
+O que a pessoa acha que domina → o erro real → o método → princípio repetível → convite a testar/salvar.

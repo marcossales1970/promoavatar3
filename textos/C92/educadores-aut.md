@@ -1,54 +1,55 @@
-Tipo: autoridade (aut)
-Formato escolhido: passo a passo curto
+Tipo: aut
+Formato escolhido: explicação prática
 
 ## Ganchos descartados
-1. "Você sabia que dá pra aprender isso sozinho?" [descartado: é saudação/"você sabia", proibido pela regra 1]
-2. "Existem só dois grupos, e um deles encolhe." [descartado: se basta sozinha, não passa no teste da lacuna]
-3. "Quase ninguém explica ver o aluno usar IA melhor que você direito." [descartado: mais de 9 palavras, ou vaga demais pro público]
-4. "O emprego nunca foi a rede de segurança que parecia." [descartado: correto mas frio — não acerta a emoção certa]
-5. "Isso que te protegia não protege mais." [vencedor]
-Emoção-gatilho da vencedora: perda do que já é seu.
+1. Você já pensou em como a IA muda sua área? [descartado]
+2. A maioria de professores e educadores usa IA errado, e nem percebe. [descartado]
+3. Isso que você acha que domina, você domina pela metade. [descartado]
+4. Ferramenta não é sistema, e a diferença custa caro. [descartado]
+5. O erro mais comum não é não usar IA — é usar sem método. [vencedor]
+Emoção-gatilho da vencedora: vergonha de já ter percebido e não ter feito nada.
+Por que venceu: nomeia o erro específico sem soar genérico, e obriga a pessoa a se perguntar se é o caso dela.
 
 ### FALA
-Tem uma coisa que quase ninguém te conta sobre ver o aluno usar IA melhor que você: o problema nunca foi a IA em si — é depender de uma coisa só. Emprego, salário, instituição: as três dependem de alguém decidir por você. Repara em a redação boa demais que você não sabe se é do aluno. Isso é o efeito de ficar só do lado que aceita. Agora o outro lado: quem ensina a pensar COM a IA forma quem vai decidir, não só quem vai obedecer. Não é sobre virar expert da noite pro dia — é sobre trocar UMA dependência por UMA competência: aprender IA de verdade, aprender a vender o que você sabe, e transformar isso em renda que não some se o emprego sumir. O princípio fica: quem só depende, aceita o que sobra. Quem constrói, escolhe.
+O erro mais comum não é não usar IA — é usar sem método. Você corrigindo a décima prova depois da meia-noite, enquanto o aluno terminou a dele em dez minutos, e o motivo não é falta de esforço: é falta de sistema. Aprender a ferramenta da moda não resolve nada sozinho — resolve saber o que fazer com ela: usar pra vender, pra produzir, pra construir alguma coisa que sobra depois que você desliga o computador. Você não vai ser substituído pela IA — mas pode ser o professor que ensina com ela. Isso não é sorte, é método — e método se aprende, não se herda. Quem entende isso primeiro sai na frente; quem só assiste, fica pra trás sem perceber quando.
 
 ### SOBREPOSIÇÕES DE TELA
-ATENÇÃO (0–2s): "Isso que te protegia não protege mais."
+ATENÇÃO (0–2s): "O erro mais comum não é não usar IA — é usar sem método."
 RETENÇÃO: a lacuna entre quem decide e quem só aceita — só fecha ouvindo até o fim
-PROVA: a redação boa demais que você não sabe se é do aluno, na tela
-ENGAJAMENTO: marca alguém que precisa ouvir isso com você
-CTA (fecho): marca alguém que precisa ouvir isso com você
+PROVA: a redação perfeita demais que ninguém sabe se é do aluno, a pilha de provas que não acaba, na tela
+ENGAJAMENTO: comenta em qual dos dois você está hoje: testando ferramenta ou construindo sistema
+CTA (fecho): comenta em qual dos dois você está hoje: testando ferramenta ou construindo sistema
 
 ## IMAGENS
-IMAGEM 1 — "Isso que te protegia não protege mais." [atenção choque]
-headline: DOIS LADOS | SÓ UM DECIDE
+IMAGEM 1 — "O erro mais comum não é" [atenção choque]
+headline: MÉTODO | NÃO É SORTE
 hook: quem fica esperando não escolhe {o lado}
-Two identical wooden chairs facing opposite directions in an empty room, one lit by warm light from a window, the other in cold shadow, cinematic realism, no text, no hologram
+A red pen resting on a stack of ungraded papers under a desk lamp at midnight, warm isolated light, photographic realism, no text
 
-IMAGEM 2 — "a dor de ver o aluno usar IA melhor que você" [tensão]
-headline: NINGUÉM VAI | TE SALVAR DISSO
-hook: a espera custa mais do que {o risco}
-A person's hand resting on a closed door handle that does not turn, warm hallway light beyond a frosted glass, tension in stillness, photographic realism, no text, no person's face visible
+IMAGEM 2 — "professores e educadores — tensão" [tensão]
+headline: O QUE CUSTA | ESPERAR
+hook: {o tempo} não espera ninguém
+An empty classroom with chairs on desks and a single glowing screen on the teacher's table, cool evening light, no people
 
-IMAGEM 3 — "a redação boa demais que você não sabe se é do aluno" [prova concreta]
-headline: É ISSO QUE | ACONTECE TODO DIA
-hook: o detalhe pequeno mostra {o padrão} inteiro
-A close-up of an inbox on a laptop screen showing an empty unread state, soft daylight from a window, shallow depth of field, no legible text, photographic realism
+IMAGEM 3 — "professores e educadores — prova concreta" [prova concreta]
+headline: O QUE PROVA | TODO DIA
+hook: {o padrão} não espera ninguém
+Two identical sheets of paper side by side, one covered in handwriting, one blank, soft daylight, no legible words
 
-IMAGEM 4 — "o outro lado da história" [virada]
-headline: APRENDER MUDA | O LADO DA MESA
-hook: a mesma ferramenta que ameaça também {liberta}
-A single seed cracking open on dark soil with a thin green sprout emerging, macro shot, warm directional light, high detail, no text
+IMAGEM 4 — "professores e educadores — virada" [virada]
+headline: O QUE VIRA | DE LADO
+hook: {a escolha} não espera ninguém
+A worn chalkboard eraser beside a sleek closed tablet, dusty morning light through classroom windows, no text on board
 
-IMAGEM 5 — "quem ensina a pensar COM a IA forma quem vai decid" [prova da possibilidade]
-headline: QUEM CONSTRÓI | ESCOLHE O PRÓPRIO LADO
-hook: a diferença entre os dois lados é {ação}
-A pair of hands laying the last brick on top of a small hand-built wall at golden hour, warm light, sense of completion and ownership, photographic realism, no text
+IMAGEM 5 — "professores e educadores — consequência" [consequência]
+headline: O QUE SEGUE | SEM VOCÊ
+hook: {o resultado} não espera ninguém
+A teacher's desk with a coffee cup gone cold next to an unfinished lesson plan notebook, warm lamp light, no visible words
 
-IMAGEM 6 — "convite direto" [engajamento]
-headline: ESCREVE AQUI | QUAL É O SEU LADO
-hook: o que você escreve hoje vira {compromisso}
-An open notebook on a wooden desk with a pen resting across a blank page, warm lamp light, morning atmosphere, no legible text, photographic realism
+IMAGEM 6 — "professores e educadores — primeiro passo" [primeiro passo]
+headline: O QUE COMEÇA | HOJE
+hook: {o primeiro passo} não espera ninguém
+A single raised hand silhouette against a bright window in an otherwise dim classroom, no face visible, cinematic realism
 
 ## ESTRUTURA
-Passo a passo curto: parte do que o público acha que entende pela metade, expõe a dependência estrutural, e fecha com o princípio repetível (dependência x competência).
+O que a pessoa acha que domina → o erro real → o método → princípio repetível → convite a testar/salvar.

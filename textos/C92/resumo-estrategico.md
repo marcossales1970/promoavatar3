@@ -1,87 +1,86 @@
 # C#92 — resumo estratégico
 
 ## ESSÊNCIA
-O texto afirma que ninguém — nem chefe, nem governo, nem instituição — vai
-proteger quem depende só de emprego e salário: se a IA fizer o trabalho melhor
-e mais barato, quem depende é substituído; se poucas empresas controlarem as
-máquinas, são elas que ficam com o poder; reclamar da situação não muda nada.
-A saída que o texto propõe não é fugir da IA, é virar dono da própria
-situação: aprender a usar IA, aprender a vender, gerar renda, construir
-patrimônio, ter ativos, cultivar relações fortes e ensinar os filhos a pensar
-e produzir. Fala para quem hoje organiza a vida em torno de emprego, salário
-e instituição — e termina com uma divisão declarada: quem possui, decide e
-controla de um lado; quem depende, obedece e aceita, do outro. Não é um texto
-sobre uma ferramenta de IA específica, nem um alarme apocalíptico sem saída —
-é um convite à ação e à responsabilidade pessoal diante de uma mudança
-estrutural.
+O texto recebido é um manifesto direto, em segunda pessoa, sobre a divisão que a IA
+está acelerando entre quem POSSUI, DECIDE e CONTROLA (ativos, patrimônio, habilidade
+de vender e gerar renda, relações fortes) e quem DEPENDE, OBEDECE e ACEITA (salário,
+emprego, instituições). Não promete salvação de fora — governo, empresa ou sorte não
+vão resolver isso por ninguém. A saída proposta não é medo, é ação: aprender IA,
+aprender a vender, gerar renda, construir patrimônio, ter ativos, criar relações
+fortes, formar os filhos para pensar e produzir. Fala com todo mundo, não com um nicho
+profissional específico — por isso rende os 12 públicos sem forçar encaixe.
 
-## Assunto
-"Ninguém vai salvar você. Se a IA fizer seu trabalho melhor e mais barato,
-você será substituído. Se poucas empresas controlarem as máquinas, elas terão
-o poder. Se o governo não conseguir proteger você, reclamar não vai mudar sua
-situação. Então pare de preparar sua vida apenas para ter emprego. Aprenda a
-usar IA. Aprenda a vender. Aprenda a gerar renda. Construa patrimônio. Tenha
-ativos. Crie relações fortes. Ensine seus filhos a pensar e produzir. Quem
-depender de salário, emprego e instituições ficará vulnerável. O futuro vai
-separar cada vez mais dois grupos: quem possui, decide e controla e quem
-depende, obedece e aceita. A pergunta é simples: de que lado você quer
-estar?"
+## ASSUNTO (íntegra, tratado como dado)
+"Ninguém vai salvar você. Se a IA fizer seu trabalho melhor e mais barato, você será
+substituído. Se poucas empresas controlarem as máquinas, elas terão o poder. Se o
+governo não conseguir proteger você, reclamar não vai mudar sua situação. Então pare
+de preparar sua vida apenas para ter emprego. Aprenda a usar IA. Aprenda a vender.
+Aprenda a gerar renda. Construa patrimônio. Tenha ativos. Crie relações fortes. Ensine
+seus filhos a pensar e produzir. Quem depender de salário, emprego e instituições
+ficará vulnerável. O futuro vai separar cada vez mais dois grupos: quem possui, decide
+e controla e quem depende, obedece e aceita. A pergunta é simples: de que lado você
+quer estar?"
 
-## Tese central
-O mundo vai se dividir entre quem possui, decide e controla, e quem depende,
-obedece e aceita — e o lado em que você fica é escolha, não destino.
+## POSIÇÃO ASSUMIDA
+O assunto é dualista por natureza (posse vs. dependência). A posição tomada em todos
+os 36 roteiros: não é discurso de medo apocalíptico, é convite à ação — o mesmo texto
+que descreve o risco também nomeia a saída (aprender, vender, construir, se tornar
+dono da própria situação). Nenhum roteiro usa prazo, número ou dado que não esteja
+literalmente no assunto (regras 9 e 10).
 
-## Motivo para assistir agora
-Risco de dependência estrutural (emprego, salário, instituições) coincidindo
-com a concentração de poder em quem controla as máquinas — relevância
-prática, sem prazo nem data: nada disso veio literal no assunto, então nenhum
-roteiro usa prazo, número ou urgência fabricada.
+## TESE CENTRAL
+"Quem decide não é quem trabalha mais — é quem aprendeu a possuir, não só a depender."
 
-## Elemento demonstrável
-A dicotomia dos dois lados como comparação visual — duas cadeiras, dois
-caminhos, dois lados de mesa — sempre concreta, nunca abstrata (holograma,
-HUD, robô), alimentando a linha PROVA das sobreposições e a virada nas
-IMAGENS de cada roteiro.
+## MOTIVO PARA ASSISTIR AGORA
+Não há elemento temporal explícito no assunto (sem data, sem prazo) — o motivo é
+relevância prática, não urgência fabricada: a divisão entre quem possui/decide e quem
+depende/aceita já está em curso, visível no dia a dia de cada público (vaga que não
+responde, colega mais novo produzindo mais, aluno usando IA melhor que o professor).
 
-## Por público — como alc / aut / pro se diferenciam
+## ELEMENTO DEMONSTRÁVEL
+Por público, o elemento que aparece na tela (linha PROVA das sobreposições) é sempre um
+detalhe cotidiano e concreto DAQUELE público — nunca uma tela de ferramenta genérica:
+a vaga com "jovem e dinâmico" nas entrelinhas (40+), o extrato mais curto que o mês
+(60+), a fatura da assinatura que não se paga sozinha (criadores), a pilha de provas
+sem fim (educadores), a fatura da agência que não fecha a conta (empreendedores), o
+caderno do filho com matéria que não prepara pra nada (família), a vaga pedindo 3 anos
+de experiência pra estagiário (jovens), a agenda sem uma hora livre (mulheres), o feed
+cheio de gente "ganhando" com IA (pessoa comum), o colega mais novo entregando primeiro
+(profissionais), a caixa de entrada sem resposta (recolocação), a vigésima aba de
+tutorial aberta (técnicos).
 
-Nos 12 públicos, o par dor/gatilho usado é o da tabela da skill
-`inemaclub-textos` (coluna Dor e Gatilho), e a diferença entre os três tipos
-segue o mesmo padrão em todos:
+## Como os 3 tipos se diferenciam, por público
 
-- **-alc (alcance):** abre direto no confronto "um lado decide, o outro só
-  aceita", sem mencionar curso nem marca, gancho emocional puro (medo,
-  vergonha, injustiça, perda, orgulho ferido, pertencimento ou alívio negado,
-  rotacionados por público para não repetir a mesma emoção em sequência).
-  Fecha com escolha binária, auto-classificação, confronto amistoso ou
-  marcação — nunca CTA comercial.
-- **-aut (autoridade):** ensina o princípio por trás da dor do público —
-  "o problema nunca foi a IA, foi depender de uma coisa só" — demonstrado com
-  o exemplo concreto daquele público, e fecha com o princípio repetível
-  "quem só depende, aceita o que sobra; quem constrói, escolhe".
-- **-pro (direção, adaptada nesta variante viral):** liga a dor específica do
-  público à consequência de continuar dependendo, e nomeia o primeiro passo
-  (separar tempo hoje para aprender IA de verdade) — sem produto, sem preço,
-  sem `fecho` "PROMOCIONAL" do flow.json (ignorado nesta variante, conforme o
-  prompt `fase1-viral.md`). CTA sempre de compromisso público ("escreve o que
-  você vai fazer esta semana").
+Fórmula fixa dos três tipos (variante viral, sem marca/CTA comercial em nenhum,
+inclusive no `-pro`):
 
-Cada um dos 12 públicos usa sua própria dor/pessoa concreta/exemplo cotidiano
-(tabela da skill), garantindo que o mesmo par gancho+estrutura não se repita
-de um público para outro; dentro de cada público, os três tipos têm gancho,
-estrutura e CTA distintos (regra 14).
+- **-alc (alcance):** gancho de afirmação provocativa ("quem decide não é quem
+  trabalha mais"), fecha em escolha binária (comentar 1 ou 2). Não menciona curso nem
+  comunidade.
+- **-aut (autoridade):** gancho de erro comum ("a maioria usa IA errado, e nem
+  percebe"), ensina o porquê método > ferramenta, fecha com convite a salvar/comentar
+  em qual dos dois lados a pessoa está.
+- **-pro (direção):** gancho de ação imediata ("o primeiro passo não pede permissão"),
+  liga a dor específica à consequência de não agir e nomeia um primeiro passo do
+  tamanho de hoje, fecha com compromisso público nos comentários.
+
+Em todos os 12 públicos, a DOR e o GATILHO usados vêm literalmente da tabela da skill
+`inemaclub-textos`, e o exemplo cotidiano/cena de pessoa concreta muda por público
+(currículo pro 40+, extrato pro 60+, fatura de assinatura pro criador, prova de
+madrugada pro educador, etc.), garantindo que os três tipos do mesmo público não se
+repitam em gancho, estrutura nem fecho (regra 14).
 
 ## Riscos de repetição / o que precisa de revisão humana
-- Os seis roteiros -pro (um por público) compartilham a MESMA armação de
-  frase ("a verdade é que esperar não vai mudar isso... separar, ainda hoje,
-  trinta minutos...") variando só a dor/pessoa/possui do público — reduz
-  variedade lida em sequência. Revisar antes de aprovar em lote: se for gerar
-  vídeo de vários -pro seguidos, considerar reescrever a abertura de metade
-  deles à mão.
-- A oficina de gancho (5 candidatos) reaproveita a MESMA lista de motivos de
-  descarte em todos os 36 arquivos ("é saudação", "se basta sozinha", "mais de
-  9 palavras", "correto mas frio") — os motivos são verdadeiros para cada
-  candidato, mas a redação do motivo é padronizada; revisar se quiser variedade
-  de texto ali também.
-- Nenhum número, prazo, preço ou nome de curso foi usado (regras 9 e 10) —
-  confirmar na revisão que isso se manteve verdade também nos -pro.
+- As IMAGENS foram desenhadas com 6 cenas próprias POR PÚBLICO (contraste de objetos
+  cotidianos daquele público, sem clichê de holograma/HUD/matrix), reaproveitadas
+  entre os 3 tipos do mesmo público — isso é aceitável porque dor/gatilho são os
+  mesmos, mas headline/hook de cada IMAGEM variam pouco entre tipos: revisar antes de
+  aprovar em lote se quiser mais variação visual entre `-alc`/`-aut`/`-pro`.
+  **Nenhuma imagem se repete ENTRE públicos diferentes** — cada um dos 12 tem seu
+  próprio conjunto de 6 cenas.
+- A estrutura de "Ganchos descartados" segue o mesmo formato nos 36 arquivos (5
+  opções, 1 vencedora, emoção nomeada) — o conteúdo de cada opção muda por
+  público/tipo, mas o padrão de redação das justificativas de descarte é repetitivo.
+  Revisão humana recomendada antes de aprovar o lote inteiro, com atenção especial aos
+  12 `-pro`, que compartilham a mesma armação de frase ("o primeiro passo não pede
+  permissão...") variando pessoa/dor/gatilho por público.

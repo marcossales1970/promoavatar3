@@ -30,18 +30,19 @@ import argparse, json, os, subprocess, sys
 from pathlib import Path
 
 AQUI = Path(__file__).resolve().parent
-# `verify-cut.py` e `lint-timeline.py` sao MECANICA de reel e moram na skill
-# global (a divisao decidida em 2026-08-03: motor na skill, editorial no
-# projeto). Procuramos primeiro ao lado deste arquivo — assim um projeto que
-# queira sua propria versao so precisa por o arquivo la.
-SKILL = Path.home() / ".claude" / "skills" / "reel-edita-inema" / "scripts"
+# Desde que o promoavatar3 virou autonomo, a skill que governa seu reel e
+# versionada no proprio repo. A copia global continua como fallback para clones
+# antigos, mas nao pode ser a unica opcao: na VPS ela pode nem estar instalada.
+SKILL_LOCAL = AQUI.parent / ".claude" / "skills" / "reel-edita-inema" / "scripts"
+SKILL_GLOBAL = Path.home() / ".claude" / "skills" / "reel-edita-inema" / "scripts"
 
 
 def motor(nome: str) -> str:
-    for base in (AQUI, SKILL):
+    bases = (AQUI, SKILL_LOCAL, SKILL_GLOBAL)
+    for base in bases:
         if (base / nome).exists():
             return str(base / nome)
-    erro(f"nao achei {nome} nem em {AQUI} nem em {SKILL}")
+    erro(f"nao achei {nome} em " + " nem em ".join(str(base) for base in bases))
 
 
 def sh(cmd):

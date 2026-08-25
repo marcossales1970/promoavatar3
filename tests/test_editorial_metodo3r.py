@@ -21,6 +21,23 @@ def test_prompt_tem_identidade_cta_e_cerca_de_saude():
     assert "não substitui avaliação, diagnóstico ou tratamento médico" in normalizado
 
 
+def test_prompt_exige_contrato_executavel_agnes_e_heygen():
+    prompt = ler("prompts/fase1-metodo3r.md")
+
+    for secao in (
+        "# VIDEO SPEC", "## HEYGEN", "## FALA EXATA", "## TIMELINE",
+        "## VISUAL INTENTS", "## CTA", "## HEALTH COMPLIANCE", "## VALIDATION",
+    ):
+        assert secao in prompt
+    assert "CONFIG_REQUIRED" in prompt
+    assert "Não inventar IDs" in prompt
+    assert "ready_for_agnes:" in prompt
+    assert "ready_for_heygen:" in prompt
+    assert "prompt_instagram:" in prompt
+    assert "prompt_youtube:" in prompt
+    assert "30–80" in prompt
+
+
 def test_prompt_recusa_o_editorial_inema_em_vez_de_usa_lo():
     prompt = ler("prompts/fase1-metodo3r.md")
     ocorrencias = [linha for linha in prompt.splitlines() if "inema.club" in linha]

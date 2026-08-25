@@ -22,7 +22,7 @@ NAO troque para flux2-dev: ele nao sobe nesta maquina de proposito (falta
 bitsandbytes, e carregar o dev atrapalha a GPU). O erro 500
 "PackageNotFoundError: bitsandbytes" e esperado, nao e bug para consertar.
 """
-import argparse, base64, hashlib, json, os, struct, sys, time, urllib.request
+import argparse, base64, hashlib, json, os, struct, subprocess, sys, tempfile, time, urllib.request
 
 # Host e modelo vêm do AMBIENTE, com o default sendo exatamente o de sempre.
 #
@@ -122,7 +122,7 @@ def via_agnes(a):
     A base ja inclui /v1 no AGNES_BASE_URL desta casa — dai o teste do sufixo em
     vez de concatenar as cegas, que rendeu um 404 /v1/v1 no primeiro teste.
     """
-    base = os.environ.get("AGNES_BASE_URL", "https://api.agnesai.io/v1").rstrip("/")
+    base = os.environ.get("AGNES_BASE_URL", "https://apihub.agnes-ai.com/v1").rstrip("/")
     alvo = base + ("/images/generations" if base.endswith("/v1") else "/v1/images/generations")
     # AGNES_MODEL no .env aponta para o modelo de CHAT; o de imagem e outro, e
     # mandar o de chat devolve 400 "is a chat model".
@@ -174,10 +174,40 @@ def normalizar(png: bytes, largura: int, altura: int):
     try:
         from PIL import Image
     except ImportError:
-        print(f"AVISO: imagem veio {origem[0]}x{origem[1]} em vez de {largura}x{altura} "
-              f"e nao ha Pillow para corrigir (pip install Pillow). preparar.py vai "
-              f"regerar esta imagem toda vez.", file=sys.stderr)
-        return png, " [tamanho NAO corrigido]"
+        # A VPS de producao ja exige ffmpeg para montar os reels, mas nao exige
+        # Pillow. Use o requisito existente como fallback em vez de deixar uma
+        # imagem fora do tamanho entrar no pipeline e ser regerada para sempre.
+        entrada = saida = None
+        try:
+            with tempfile.NamedTemporaryFile(suffix=".png", delete=False) as f:
+                f.write(png)
+                entrada = f.name
+            with tempfile.NamedTemporaryFile(suffix=".png", delete=False) as f:
+                saida = f.name
+            vf = (f"scale={largura}:{altura}:force_original_aspect_ratio=increase,"
+                  f"crop={largura}:{altura}")
+            r = subprocess.run(
+                ["ffmpeg", "-y", "-hide_banner", "-loglevel", "error", "-i", entrada,
+                 "-vf", vf, "-frames:v", "1", saida],
+                capture_output=True,
+            )
+            if r.returncode != 0:
+                raise RuntimeError(r.stderr.decode("utf-8", "replace")[:300])
+            ajustada = open(saida, "rb").read()
+            if dimensoes(ajustada) != (largura, altura):
+                raise RuntimeError(f"ffmpeg devolveu {dimensoes(ajustada)}")
+            return ajustada, f", {origem[0]}x{origem[1]} -> {largura}x{altura} (ffmpeg)"
+        except Exception as e:
+            print(f"ERRO: nao normalizou {origem[0]}x{origem[1]} para "
+                  f"{largura}x{altura}: Pillow ausente e ffmpeg falhou: {e}", file=sys.stderr)
+            sys.exit(6)
+        finally:
+            for temporario in (entrada, saida):
+                if temporario:
+                    try:
+                        os.unlink(temporario)
+                    except OSError:
+                        pass
     import io
     im = Image.open(io.BytesIO(png)).convert("RGB")
     escala = max(largura / im.width, altura / im.height)

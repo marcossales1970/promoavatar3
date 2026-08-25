@@ -119,9 +119,9 @@ vaga, urgência, contraindicação específica ou superioridade sobre tratamento
 
 - `avatar_id`, `voice_id` e `TEMPLATE-AVATAR` da Cássia no HeyGen;
 - canal/pasta de publicação dos vídeos;
-- CTA visual próprio do Método 3R (não usar o clipe do INEMA.club);
+- CTA visual próprio do Método 3R: `cta/cta-metodo3r-9x16.mp4`
+  (5 s, 1080×1920, sem reutilizar o clipe do INEMA.club);
 - confirmação se a campanha venderá avaliação inicial, mentoria continuada ou
   ambos;
 - confirmação do nome público preferido: “Método 3R” ou “Método 3R — Respirar,
   Reeducar, Restaurar”.
-

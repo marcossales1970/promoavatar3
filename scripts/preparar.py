@@ -167,8 +167,8 @@ def ler_json_seguro(p) -> dict:
         return {}
 
 
-def ler_imagens(md: Path) -> list:
-    """Le a secao `## IMAGENS` do arquivo do publico.
+def ler_imagens(md: Path, canal: str = "instagram") -> list:
+    """Le `## IMAGENS` (legado) ou `## VISUAL INTENTS`/`AGNES VISUALS`.
 
     Formato que a fase de texto escreve (regra 11b do fase1-texto.md):
         IMAGEM 3 — "primeiras palavras do segmento" [GATILHO]
@@ -184,7 +184,48 @@ def ler_imagens(md: Path) -> list:
     # quem se adapta e o parser, nao os arquivos.
     m = re.search(r"^#{1,3}\s*IMAGENS\s*$(.*?)(?=^#{1,3}\s|\Z)", txt, re.M | re.S)
     if not m:
-        return []
+        agnes = re.search(
+            r"^#{1,3}\s*(?:VISUAL\s+INTENTS|AGNES\s+VISUALS)\s*$(.*?)(?=^#{1,2}\s|\Z)",
+            txt, re.M | re.S | re.I,
+        )
+        if not agnes:
+            return []
+        itens = []
+        blocos = re.split(r"(?=^#{2,4}\s*IMAGE\s+\d+\s*$)", agnes.group(1), flags=re.M | re.I)
+        for bloco in blocos:
+            cab = re.match(r"^#{2,4}\s*IMAGE\s+(\d+)\s*(?:\r?\n|$)", bloco.strip(), re.I)
+            if not cab:
+                continue
+
+            def campo(nome: str) -> str:
+                achado = re.search(
+                    rf"^{re.escape(nome)}\s*:\s*(.*?)(?=^[a-z_]+\s*:|^#|\Z)",
+                    bloco, re.M | re.S | re.I,
+                )
+                return " ".join(achado.group(1).strip().strip('"').split()) if achado else ""
+
+            n = int(cab.group(1))
+            prompt_base = campo("prompt_en") or campo("prompt")
+            prompt = campo(f"prompt_{canal}") or prompt_base
+            negativo = campo("negative_prompt")
+            continuidade = campo("continuity_notes")
+            if continuidade:
+                prompt = f"{prompt} Continuity: {continuidade}.".strip()
+            if negativo:
+                prompt = f"{prompt} Avoid: {negativo}.".strip()
+            itens.append({
+                "n": n,
+                "segmento": campo("segment") or str(n),
+                "gatilho": "",
+                "prompt": prompt,
+                "headline": "",
+                "hook": "",
+                "duration": campo("duration"),
+                "aspect_ratio": campo(f"aspect_ratio_{canal}") or campo("aspect_ratio"),
+                "continuity_notes": continuidade,
+                "prompt_base": prompt_base,
+            })
+        return sorted((i for i in itens if i["prompt"]), key=lambda i: i["n"])
     itens, atual = [], None
     for linha in m.group(1).splitlines():
         cab = re.match(r"^\s*IMAGEM\s+(\d+)\s*[—-]\s*(.*)$", linha)
@@ -219,6 +260,8 @@ def main() -> int:
     ap.add_argument("--avatar", required=True)
     ap.add_argument("--ws", required=True, help="workspace do reel")
     ap.add_argument("--alvo", default="reel", help="publico — vira o seed-key")
+    ap.add_argument("--canal", choices=("instagram", "youtube"), default="instagram",
+                    help="instagram usa a geometria do template; youtube gera 16:9")
     ap.add_argument("--textos", default=None, help="o .md do publico (secao IMAGENS)")
     ap.add_argument("--explicativo", default=None)
     ap.add_argument("--sem-imagens", action="store_true")
@@ -384,17 +427,23 @@ def main() -> int:
         img_h = _mult16(_topo.get("altura", ALTURA_TOPO))
         _i = _topo.get("imagem") or {}
         img_w = _mult16(_i.get("largura", img_w)); img_h = _mult16(_i.get("altura", img_h))
+    if a.canal == "youtube":
+        # Agnes e klein trabalham em multiplos de 16; 1920x1088 e a variante
+        # operacional mais proxima de 1920x1080 sem esticar a resposta.
+        img_w, img_h = 1920, 1088
+    man["canal"] = a.canal
     man["imagem_tamanho"] = f"{img_w}x{img_h}"
 
     # ---- imagens da secao IMAGENS ----
     man["imagens"] = []
     if not a.sem_imagens:
-        itens = ler_imagens(Path(os.path.expanduser(a.textos)) if a.textos else None)
+        itens = ler_imagens(Path(os.path.expanduser(a.textos)) if a.textos else None, a.canal)
         if not itens:
             man["imagens_aviso"] = ("nenhuma secao `## IMAGENS` encontrada — o texto "
                                     "do publico deveria traze-la (regra 11b)")
         for it in itens:
-            destino = imgdir / f"topo-{it['n']:02d}.png"
+            prefixo = "youtube" if a.canal == "youtube" else "topo"
+            destino = imgdir / f"{prefixo}-{it['n']:02d}.png"
             if it.get("arquivo"):                       # imagem propria do usuario
                 origem = os.path.expanduser(it["arquivo"])
                 if not os.path.exists(origem):

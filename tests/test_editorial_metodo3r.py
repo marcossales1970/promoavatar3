@@ -16,6 +16,7 @@ def test_prompt_tem_identidade_cta_e_cerca_de_saude():
 
     assert "Respirar, Reeducar, Restaurar" in prompt
     assert "Cássia Saito" in prompt
+    assert "Eu sou Cássia Saito, educadora\n    física, professora de Yoga e especialista em respiração." in prompt
     assert "Converse com a Cássia pelo WhatsApp" in prompt
     assert "Não diagnostique" in prompt
     assert "não substitui avaliação, diagnóstico ou tratamento médico" in normalizado
@@ -47,8 +48,10 @@ def test_prompt_recusa_o_editorial_inema_em_vez_de_usa_lo():
     ]
 
 
-def test_variante_nao_esta_liberada_no_fluxo_com_avatar_e_cta_antigos():
+def test_variante_esta_liberada_com_cta_proprio():
     fluxo = json.loads(ler("flow.json"))
     variantes = fluxo["fases"][0].get("variantes", {})
 
-    assert "metodo3r" not in variantes
+    assert variantes["metodo3r"] == "prompts/fase1-metodo3r.md"
+    assert fluxo["cta"]["metodo3r"] == "cta/cta-metodo3r-9x16.mp4"
+    assert (RAIZ / fluxo["cta"]["metodo3r"]).is_file()

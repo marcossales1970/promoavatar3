@@ -9,7 +9,8 @@ INEMA.club.
 ## Identidade
 
 - **Marca:** Método 3R — Respirar, Reeducar, Restaurar.
-- **Profissional:** Cássia Saito, professora de Yoga especialista em respiração.
+- **Profissional:** Cássia Saito, educadora física, professora de Yoga e
+  especialista em respiração.
 - **Serviço central:** avaliação respiratória individual, presencial ou on-line.
 - **Continuidade:** orientação e práticas individualizadas de consciência e
   reeducação respiratória, quando indicadas após a avaliação.

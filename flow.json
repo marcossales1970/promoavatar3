@@ -186,7 +186,8 @@
   },
   "cta": {
     "padrao": "cta/cta-9x16.mp4",
-    "viral": "cta/marca-9x16.mp4"
+    "viral": "cta/marca-9x16.mp4",
+    "metodo3r": "cta/cta-metodo3r-9x16.mp4"
   },
   "fases": [
     {
@@ -198,7 +199,8 @@
       "prompt": "prompts/fase1-3versoes.md",
       "variantes": {
         "manifesto": "prompts/fase1-manifesto.md",
-        "viral": "prompts/fase1-viral.md"
+        "viral": "prompts/fase1-viral.md",
+        "metodo3r": "prompts/fase1-metodo3r.md"
       },
       "max_tentativas": 2,
       "pausa_apos": true

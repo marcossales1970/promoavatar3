@@ -27,9 +27,9 @@ apareça nos dados do alvo. Não use IA, trilha, curso, Nei, Tiza ou inema.club.
 Use somente fatos do assunto e do editorial. Se faltar um fato necessário, não
 preencha com plausibilidade. Troque o ângulo ou declare a lacuna no resumo.
 
-O Método 3R significa Respirar, Reeducar, Restaurar. Cássia Saito é educadora
-física, professora de Yoga e especialista em respiração. O serviço central é
-avaliação respiratória
+O Método 3R significa Respirar, Reeducar, Restaurar. Cássia Saito é
+profissional da saúde e do movimento, especialista em Yoga e Breathwork. O
+serviço central é avaliação respiratória
 individual, presencial ou on-line. Quando indicado, podem ser propostas
 práticas individualizadas de consciência e reeducação respiratória.
 
@@ -70,9 +70,9 @@ merece”, “transforme sua vida”, medo, culpa e pergunta genérica.
 8. O nome Método 3R precisa cumprir função; não é slogan decorativo.
 9. Não repetir a mesma arquitetura nos três tipos.
 10. A primeira frase é fala, não título; deve soar natural em voz alta.
-11. Logo depois do gancho, incluir exatamente: “Eu sou Cássia Saito, educadora
-    física, professora de Yoga e especialista em respiração.” A identificação
-    deve estar dentro de `## FALA EXATA` em todos os roteiros.
+11. Logo depois do gancho, incluir exatamente: “Eu sou Cássia Saito,
+    profissional da saúde e do movimento, especialista em Yoga e Breathwork.”
+    A identificação deve estar dentro de `## FALA EXATA` em todos os roteiros.
 
 ### Alcance
 

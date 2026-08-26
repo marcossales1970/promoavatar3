@@ -16,7 +16,7 @@ def test_prompt_tem_identidade_cta_e_cerca_de_saude():
 
     assert "Respirar, Reeducar, Restaurar" in prompt
     assert "Cássia Saito" in prompt
-    assert "Eu sou Cássia Saito, educadora\n    física, professora de Yoga e especialista em respiração." in prompt
+    assert "Eu sou Cássia Saito,\n    profissional da saúde e do movimento, especialista em Yoga e Breathwork." in prompt
     assert "Converse com a Cássia pelo WhatsApp" in prompt
     assert "Não diagnostique" in prompt
     assert "não substitui avaliação, diagnóstico ou tratamento médico" in normalizado

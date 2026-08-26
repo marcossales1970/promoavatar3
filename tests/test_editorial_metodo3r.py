@@ -55,3 +55,13 @@ def test_variante_esta_liberada_com_cta_proprio():
     assert variantes["metodo3r"] == "prompts/fase1-metodo3r.md"
     assert fluxo["cta"]["metodo3r"] == "cta/cta-metodo3r-9x16.mp4"
     assert (RAIZ / fluxo["cta"]["metodo3r"]).is_file()
+
+
+def test_prompt_obedece_contrato_de_saida_do_runtime():
+    prompt = ler("prompts/fase1-metodo3r.md")
+
+    assert "grave em `{{saida}}`" in prompt.casefold()
+    assert "RESULT: {{saida}}" in prompt
+    assert "RESULT: {{pasta}}" not in prompt
+    assert "git add" in prompt
+    assert "Não faça push" in prompt

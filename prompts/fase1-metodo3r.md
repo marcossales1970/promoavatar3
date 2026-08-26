@@ -271,10 +271,18 @@ nunca podem ser inventados.
 ## Saída
 
 Grave em `{{pasta}}/<alvo>.md` e o resumo em
-`{{pasta}}/resumo-estrategico.md`. A última linha da resposta deve ser:
+`{{pasta}}/resumo-estrategico.md`.
+
+Faça `git add` dos arquivos gerados e um único commit no repositório onde
+`{{pasta}}` fica, com autor `inematds <inematds@gmail.com>` e mensagem curta
+descrevendo o assunto. Não faça push.
+
+Ao terminar, grave em `{{saida}}` um resumo curto, com um alvo por linha e o
+caminho do respectivo arquivo. A fala completa permanece nos arquivos Markdown.
+A última linha da resposta deve ser exatamente:
 
 ```text
-RESULT: {{pasta}}
+RESULT: {{saida}}
 ```
 
 Em caso de bloqueio factual:
